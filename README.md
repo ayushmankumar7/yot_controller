@@ -15,7 +15,7 @@ Control the You Own It Website using your terminal.
 ## Install 
 
 ```
-pip install yot
+pip install yot [Currently NOT WORKING] {NOT HOSTED}
 ```
 
 or 
